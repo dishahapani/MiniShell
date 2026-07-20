@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Build files
+myshell
+a.out
+*.out
+*.o
